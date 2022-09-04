@@ -1,4 +1,4 @@
-### stackOverflow
+### [guangtuan@stackoverflow](https://stackoverflow.com/users/3789503/grantonzhuang)
 
 [![guangtuan's StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3789503)](https://stackoverflow.com/users/3789503/grantonzhuang)
 
@@ -8,6 +8,6 @@
 
 ![guangtuan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=guangtuan&show_icons=true&count_private=true&theme=gotham)
 
-### leetcode
+### [guangtuan@leetcode](https://leetcode.cn/u/granton/)
 
 ![guangtuan's leetcode](https://stats.justsong.cn/api/leetcode/?cn_username=granton&theme=dark)
