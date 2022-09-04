@@ -8,13 +8,13 @@
 
 - 认为测试代码非常重要
 
-#### 我平时用的编程语言
+#### 我平时用的编程语言，主要在写后端和测试脚本
 
-![](https://skillicons.dev/icons?perline=10&i=java,kotlin,python,bash,html,css,js)
+![](https://skillicons.dev/icons?perline=10&i=java,kotlin,python,bash,spring,nodejs,express,jest)
 
-#### 工作所用过的框架
+#### 也写一些前端
 
-![](https://skillicons.dev/icons?perline=10&i=spring,react,vue,express,jest)
+![](https://skillicons.dev/icons?perline=10&i=html,css,js,react,vue)
 
 #### 其他周边
 
