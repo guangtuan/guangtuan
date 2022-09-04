@@ -18,7 +18,7 @@
 
 #### 其他周边
 
-![](https://skillicons.dev/icons?perline=10&i=mongo,redis,mysql,linux,docker,nginx,jenkins,md)
+![](https://skillicons.dev/icons?perline=10&i=vim,git,md,mongo,redis,mysql,linux,docker,nginx,jenkins)
 
 ### github 活动
 
