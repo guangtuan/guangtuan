@@ -1,6 +1,6 @@
 # 客官您来了 👏
 
-我是guangtuan
+我是 guangtuan
 
 - 一个普通的开发者
 
@@ -40,4 +40,4 @@
 
 ### [我在 leetcode](https://leetcode.cn/u/granton/)
 
-![granton's leetcode](https://stats.justsong.cn/api/leetcode/?cn_username=granton&theme=dark)
+![granton's leetcode](https://stats.justsong.cn/api/leetcode/?username=granton&cn=true&theme=dark)
